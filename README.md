@@ -1,5 +1,5 @@
 Buenos dias Ing.
-Acabo de subir el proyecto final del microservicio que me toco: Gestion de Servicios, cosiste en el listar todos los servicios para que el paciente
+Acabo de subir el proyecto final del microservicio que me toco: Gestion de Servicios, consiste en el listar todos los servicios para que el paciente
 pueda realizar la contratacion de un servicio.
 
 Adjunto el Enlace del video : https://youtu.be/Q41ufX2ak7k.
