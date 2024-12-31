@@ -4,7 +4,7 @@ pueda realizar la contratacion de un servicio.
 
 Adjunto el Enlace del video : https://youtu.be/Q41ufX2ak7k.
 
-tambien adjunto mi digrama de clases :
+tambien adjunto mi diagrama de clases :
 
 
 
